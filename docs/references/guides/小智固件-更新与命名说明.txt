@@ -1,0 +1,4 @@
+增加物联网 IOT framework
+使用 GPIO 47 作为低电平触发的电容触摸按钮输入
+优化内存使用
+注意：ml307 是 4G 版固件，lichuang-dev 是立创开发板固件，bread 开头的是面包板版本。

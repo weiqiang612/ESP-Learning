@@ -1,0 +1,18 @@
+# ESP-IDF 构建产物与本地组件缓存
+**/build/
+**/managed_components/
+**/sdkconfig.old
+
+# 本地 IDE 路径与串口配置（含本机 IDF 路径与 COM 端口）
+**/.vscode/
+
+# 本地大体积参考资料（驱动/烧录软件、教程视频、小智预编译固件与源码归档，仅本地留底不入 Git）
+docs/references/local/
+
+# Python / 系统 / Office 临时文件
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
